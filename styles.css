@@ -1,0 +1,74 @@
+.container {
+  border-color: #0d6efd
+
+}
+
+.image1 {
+  margin: 40px 80px 40px 0px;
+  object-position: left top;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Sono', sans-serif;
+  margin-bottom: 80px;
+  margin-top: 50px;
+
+}
+
+.navbar-brand {
+  color: #0d6efd
+}
+
+.navbar {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+
+body {
+       padding: 25px;
+       background-color: white;
+       color: black;
+       font-size: 25px;
+     }
+     .dark-mode {
+       background-color: black;
+       color: white;
+     }
+     .light-mode {
+       background-color: white;
+       color: black;
+     }
+
+
+.btn {
+  margin-left: 5px;
+}
+
+.image2 {
+  height: 500px;
+  width: 800px;
+  margin-left: 250px
+}
+
+.image3 {
+  height: 500px;
+  width: 800px;
+  margin-left: 250px;
+}
+
+.school {
+  margin-top: 6px;
+}
+
+.modes {
+  margin-bottom: 2px;
+}
+
+@media query {
+  image2 {
+    margin-right: 200px;
+  }
+
+}
